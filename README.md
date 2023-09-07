@@ -45,7 +45,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Description
   
-  This is challenge 19 of the bootcamp. I was given starter code and was tasked to finish the creation of a PWA text editor. It saves data to local storage, and functions offline. 
+I was given starter code and was tasked to finish the creation of a PWA text editor. It saves data to local storage, and functions offline. 
   
 
 ## Table of Contents 
